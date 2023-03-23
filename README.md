@@ -146,8 +146,4 @@ correctly install Appium Desktop, copy the application from the disk image to
 your local filesystem, to somewhere like `/Applications`. Then, run the app
 from that new location.
 
-## Developer Instructions
 
-Want to hack on Appium Desktop? Awesome! Head on over to our [Contributing
-Doc](CONTRIBUTING.md) for information on how to get a dev environment set up
-and submit changes back to the project.
